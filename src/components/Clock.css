@@ -1,0 +1,13 @@
+.clock{
+    font-size: 55px;
+    position: absolute;
+        top: 6px;
+        right: 6px;
+        border-width:2px;
+        border-style:solid;
+        border-color:black;
+        color: aliceblue;
+        background-color: black;
+        border-radius: 5px;
+        box-shadow: 15px;
+}
